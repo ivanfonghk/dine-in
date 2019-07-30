@@ -1,1 +1,2 @@
-#dine-in\nA food ordering application
+#dine-in
+A food ordering application
